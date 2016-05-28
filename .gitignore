@@ -61,3 +61,9 @@ Carthage/Build
 
 fastlane/report.xml
 fastlane/screenshots
+
+## JetBrains IDE
+# http://stackoverflow.com/questions/11968531/what-to-gitignore-from-the-idea-folder
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+*.iws
